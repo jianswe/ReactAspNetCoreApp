@@ -1,0 +1,45 @@
+# Node modules
+/node_modules
+/client-app/node_modules
+
+# Build output
+/build
+/dist
+
+# ASP.NET Core specific files
+/bin/
+obj/
+project.lock.json
+project.fragment.lock.json
+*.db
+*.db-journal
+*.sln.docstates
+*.user
+*.vs
+.vscode/
+.idea/
+*.suo
+*.userprefs
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# React specific files
+*.js.map
+*.tsbuildinfo
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Visual Studio Code
+.vscode/
+.history/
+.idea/
