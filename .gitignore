@@ -1,8 +1,9 @@
 # Node modules
 /node_modules
-/client-app/node_modules
+/ClientApp/node_modules/
 
 # Build output
+/ClientApp/build/
 /build
 /dist
 
